@@ -1,0 +1,16 @@
+# custom
+results
+highs.log
+gmpl.lp
+gmpl_big.lp
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv

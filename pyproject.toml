@@ -1,0 +1,10 @@
+[project]
+name = "fresh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "highspy>=1.14.0",
+    "linopy>=0.6.7",
+]
