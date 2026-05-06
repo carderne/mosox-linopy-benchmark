@@ -27,7 +27,7 @@ uv run bench.py --help
 ## Benchmarks
 
 Notes:
-- Osemosys "Atlantis" model. From [here](http://www.osemosys.org/uploads/1/8/5/0/18504136/atlantis_bau.txt) (retrived December 2025, link now dead).
+- Osemosys "Atlantis" model. From [here](http://www.osemosys.org/uploads/1/8/5/0/18504136/atlantis_bau.txt) (retrieved December 2025, link now dead).
 - Manually converted to linopy with GPT-5.5.
 - Validated to produce the same results.
 - Not validated to be optimal linopy code (check [./lino](./lino)).
